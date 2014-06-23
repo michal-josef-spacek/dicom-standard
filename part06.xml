@@ -84744,9 +84744,7 @@
         </tr>
         <tr valign="top">
           <td align="left" colspan="1" rowspan="1">
-            <para>
-              <emphasis role="italic">1.2.840.10008.5.1.4.1.2.​5.​3</emphasis>
-            </para>
+            <para>1.2.840.10008.5.1.4.1.2.<200b>5.<200b>3</para>
           </td>
           <td align="left" colspan="1" rowspan="1">
             <para>Composite Instance Retrieve Without Bulk Data - GET</para>
