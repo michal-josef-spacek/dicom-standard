@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="502px" height="527px" viewBox="0 0 502 527" enable-background="new 0 0 502 527" xml:space="preserve">
+
+<defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS 3.10: Media Storage and File Format for Media Interchange
+   </desc>
+</g>
+
+<g>
+	<rect x="1" y="1" fill="#F5EED6" width="500" height="525"/>
+	<g>
+		<path fill="#FFFFFF" stroke="#000000" d="M435.117,499.946c0,6.065-4.478,10.983-10,10.983H76.883c-5.522,0-10-4.918-10-10.983
+			v-76.861c0-6.065,4.478-10.983,10-10.983h348.234c5.522,0,10,4.918,10,10.983V499.946z"/>
+		
+			<path fill="#CCDEF0" stroke="#000000" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" d="
+			M435.117,387.147c0,9.742-4.478,17.641-10,17.641H76.883c-5.522,0-10-7.898-10-17.641V263.689c0-9.742,4.478-17.641,10-17.641
+			h348.234c5.522,0,10,7.898,10,17.641V387.147z"/>
+		
+			<path fill="#86B2D8" stroke="#000000" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" d="
+			M435.117,223.399c0,10.535-4.478,19.079-10,19.079H76.883c-5.522,0-10-8.544-10-19.079V89.846c0-10.537,4.478-19.08,10-19.08
+			h348.234c5.522,0,10,8.543,10,19.08V223.399z"/>
+		
+			<rect x="244.558" y="31.266" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-dasharray="6,4" width="155.653" height="182.034"/>
+		<text transform="matrix(1 0 0 1 244.5571 26.707)" font-size="12">DICOM Application Entity</text>
+		<text transform="matrix(1 0 0 1 76.7798 443.29)" font-size="11">Physical Media Format Layer</text>
+		<text transform="matrix(1 0 0 1 84.1172 456.7988)"><tspan x="0" y="0" font-size="9">Physical Storage Media</tspan><tspan x="0" y="10.8" font-size="9">Specifications (e.g., CDR,</tspan><tspan x="0" y="21.6" font-size="9"> 90mm OD, 130mm OD, etc.)</tspan></text>
+		<g>
+			<path fill="#E6E6E6" d="M66.883,384.888c0-1.979,1.62-3.6,3.6-3.6h361.035c1.979,0,3.6,1.62,3.6,3.6v41.487
+				c0,1.979-1.62,3.6-3.6,3.6H70.483c-1.98,0-3.6-1.62-3.6-3.6V384.888z"/>
+			<path fill="none" stroke="#000000" stroke-miterlimit="1" d="M66.883,384.888c0-1.979,1.62-3.6,3.6-3.6h361.035
+				c1.979,0,3.6,1.62,3.6,3.6v41.487c0,1.979-1.62,3.6-3.6,3.6H70.483c-1.98,0-3.6-1.62-3.6-3.6V384.888z"/>
+		</g>
+		<text transform="matrix(1 0 0 1 76.7798 397.5654)" font-size="11">BOUNDARY: Physical Media Access Services</text>
+		<
